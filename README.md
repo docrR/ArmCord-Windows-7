@@ -13,3 +13,5 @@ How to reproduce this yourself:
 - Replace all items (except resources) in the ArmCord install directory with the Supermium Electron archive
 - Delete ArmCord.exe
 - Execute electron.exe to open ArmCord
+
+Recommended VenCord theme: https://github.com/XYZenix/XYZenixThemes/tree/master/DTM-08-V2
