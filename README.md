@@ -5,7 +5,7 @@ Supermium Electron may be obtained here: https://github.com/win32ss/supermium-el
 
 Supermium Electron is currently a work in progress. Expect some caveats. 
 
-This currently supports Windows 7 and Windows Vista (with Extended Kernel).
+This currently supports Windows 7, Windows Vista (with Extended Kernel), and Windows 8.x.
 
 How to reproduce this yourself:
 - Download the x64 Supermium Electron archive
