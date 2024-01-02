@@ -8,7 +8,7 @@ Supermium Electron is currently a work in progress. Expect some caveats.
 This currently supports Windows 7, Windows Vista (with Extended Kernel, x64 only), and Windows 8.x.
 
 How to reproduce this yourself:
-- Download the x64 Supermium Electron archive
+- Download the Supermium Electron archive (x86 and x64 available)
 - Install ArmCord
 - Replace all items (except resources) in the ArmCord install directory with the Supermium Electron archive
 - Delete ArmCord.exe
