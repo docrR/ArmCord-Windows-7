@@ -1,4 +1,6 @@
 # ArmCord-Windows-7
+Project is now archived. Use this instead: https://github.com/AiekDev/aerocord
+
 Re-packaged ArmCord clients with Supermium Electron (currently v.28)
 
 Supermium Electron may be obtained here: https://github.com/win32ss/supermium-electron/releases/tag/v28-testing
